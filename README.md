@@ -7,11 +7,19 @@ This repository contains my practical implementations from the **Machine Learnin
 
 ## 📦 Repository Contents
 
-This repository exclusively focuses on the **Python** implementations and their accompanying data. For every section covered in the course, you will find:
-* **Python Scripts:** The core `.py` files containing the model architecture, training, and evaluation logic.
-* **Datasets:** The specific data files (e.g., `.csv`) required to run, train, and test the models.
+Machine Learning Practice Repository
 
-*(Note: R implementations and workspaces are excluded from this repository to keep the focus strictly on Python).*
+Daily implementations from ML learning journey.
+
+Topics covered:
+- Data Preprocessing
+- Regression
+- Classification
+- Clustering
+- Association Rules
+- Reinforcement Learning
+
+
 
 ## 📂 Folder Structure
 
